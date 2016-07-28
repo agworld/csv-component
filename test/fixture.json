@@ -1,0 +1,11 @@
+{
+  "fixtures":{
+    "read":{
+      "msg":{
+      },
+      "cfg":{
+        "url":"http://www.ibm.com/support/knowledgecenter/en/SVU13_7.2.1/com.ibm.ismsaas.doc/reference/CIsImportMinimumSample.csv?view=kc"
+      }
+    }
+  }
+}
